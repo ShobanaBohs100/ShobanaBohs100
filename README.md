@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/ShobanaBohs100?tab=repositories)
 
-- 💬 Ask me about **Javascript** & **CSS**
+- 💬 Ask me about **React, Typescript, Javascript & CSS**
 
 - 📫 How to reach me **letter2shobana@gmail.com**
 
