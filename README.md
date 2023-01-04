@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ShobanaBohs100&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning about **React Native**
+- 🌱 I’m currently learning about **MySQL**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/ShobanaBohs100?tab=repositories)
 
@@ -29,8 +29,9 @@
 
 <p align="center">
 <a href="https://github.com/ShobanaBohs100">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShobanaBohs100&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShobanaBohs100&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="480em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShobanaBohs100&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="480em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShobanaBohs100&layout=compact&langs_count=8&theme=algolia"/>
+<img width="480em"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShobanaBohs100&layout=compact&langs_count=8&theme=algolia" alt="Shobana Bohs streak info" />
 </a>
 </p>
 
@@ -39,4 +40,4 @@
 <p>
 <a href="https://www.linkedin.com/in/shobanabohs/"> <img src="https://img.shields.io/badge/-shobanabohs-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShobanaBohs100&" alt="vivek9patel" /></p> -->
+<p align="center"></p>
