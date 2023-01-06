@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **letter2shobana@gmail.com**
 
+- Want to find more details. Please checkout [my resume](https://docs.google.com/document/d/1Ulvo4KOFO28U3gRED-ZpMAsH3YOoGT-UuwjSKR1mOCo/edit?usp=sharing)
+
 
 	
 ### 🛠 &nbsp;Languages and Tools
