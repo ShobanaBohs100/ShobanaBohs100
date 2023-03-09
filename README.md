@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shobana</h1>
-<h3 align="center">An enthusiastic frontend developer from India</h3>
+<h3 align="center">An enthusiastic fullstack developer from India</h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShobanaBohs100&color=blueviolet&style=flat">
